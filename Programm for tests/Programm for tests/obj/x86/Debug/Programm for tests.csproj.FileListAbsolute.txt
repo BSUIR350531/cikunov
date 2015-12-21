@@ -1,0 +1,21 @@
+c:\users\vks\documents\visual studio 2010\Projects\Programm for tests\Programm for tests\bin\Debug\Programm for tests.exe
+c:\users\vks\documents\visual studio 2010\Projects\Programm for tests\Programm for tests\bin\Debug\Programm for tests.pdb
+c:\users\vks\documents\visual studio 2010\Projects\Programm for tests\Programm for tests\obj\x86\Debug\Programm_for_tests.Form1.resources
+c:\users\vks\documents\visual studio 2010\Projects\Programm for tests\Programm for tests\obj\x86\Debug\Programm_for_tests.Form2.resources
+c:\users\vks\documents\visual studio 2010\Projects\Programm for tests\Programm for tests\obj\x86\Debug\Programm_for_tests.Properties.Resources.resources
+c:\users\vks\documents\visual studio 2010\Projects\Programm for tests\Programm for tests\obj\x86\Debug\Programm for tests.csproj.GenerateResource.Cache
+c:\users\vks\documents\visual studio 2010\Projects\Programm for tests\Programm for tests\obj\x86\Debug\Programm for tests.exe
+c:\users\vks\documents\visual studio 2010\Projects\Programm for tests\Programm for tests\obj\x86\Debug\Programm for tests.pdb
+C:\Users\VKS\documents\visual studio 2010\Projects\Programm for tests\Programm for tests\obj\x86\Debug\Programm for tests.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Programm for tests\Programm for tests\obj\x86\Debug\Programm for tests.exe
+C:\Users\Administrator\Desktop\Programm for tests\Programm for tests\obj\x86\Debug\Programm for tests.pdb
+C:\Users\Administrator\Desktop\Programm for tests\Programm for tests\bin\Debug\Programm for tests.exe
+C:\Users\Administrator\Desktop\Programm for tests\Programm for tests\bin\Debug\Programm for tests.pdb
+C:\Users\Administrator\Desktop\Programm for tests\Programm for tests\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Programm for tests\Programm for tests\obj\x86\Debug\Programm_for_tests.Form1.resources
+C:\Users\Administrator\Desktop\Programm for tests\Programm for tests\obj\x86\Debug\Programm_for_tests.Form2.resources
+C:\Users\Administrator\Desktop\Programm for tests\Programm for tests\obj\x86\Debug\Programm_for_tests.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Programm for tests\Programm for tests\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\Programm for tests\Programm for tests\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Programm for tests\Programm for tests\obj\x86\Debug\Programm for tests.exe
+D:\Programm for tests\Programm for tests\obj\x86\Debug\Programm for tests.pdb
